@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Emergency Buddy</string>
+    <string name="welcome_to_emergency_buddy">Welcome to Emergency Buddy!</string>
+    <string name="help_me">Help me!</string>
+</resources>
